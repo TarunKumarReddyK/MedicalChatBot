@@ -27,7 +27,7 @@ The Medical Chatbot is a web-based application developed using HTML, CSS, and Ja
 
 ## Demo
 
-You can find a live demo of the Medical Chatbot [here](https://tarunkumarreddyk.github.io/MedicalChatBot/).
+You can find a live demo of the Medical Chatbot [click here](https://tarunkumarreddyk.github.io/MedicalChatBot/).
 
 ![Medical Chatbot Demo](demo.gif)
 
