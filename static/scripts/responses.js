@@ -1,6 +1,6 @@
 function getBotResponse(input) {
 
-    if (input == "fever") {
+    if (input == "Fever") {
         let days = prompt("How many days have you had a fever?");
         let vomiting = prompt("Are you experiencing any vomiting? (Yes/No)");
         let yellowish_skin = prompt("Do you have yellowish skin? (Yes/No)");
