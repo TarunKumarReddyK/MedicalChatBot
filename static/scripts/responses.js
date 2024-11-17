@@ -131,7 +131,7 @@ function getBotResponse(input) {
         let tremors = prompt("Do you have hand tremors? (Yes/No)");
         let anxiety = prompt("Are you experiencing anxiety? (Yes/No)");
         
-        if (heart_rate > 100 && weight_loss == "Yes" && tremors == "Yes" && anxiety == "Yes") {
+        if (heart_rate > 102 && weight_loss == "Yes" && tremors == "Yes" && anxiety == "Yes") {
           return "Your symptoms may indicate Hyperthyroidism. See a doctor.";
         } else {
           return "Your symptoms do not appear to be indicative of Hyperthyroidism, but it is still best to see a doctor for proper evaluation.";
